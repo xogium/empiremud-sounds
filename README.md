@@ -1,4 +1,4 @@
-# empiremud-sounds
+# empiremud-sounds #
 Better sound pack for EmpireMUD. Will eventually include the following:
 * Ambiences:
 	* Random ambiences for tiles such as jungle, forest, plain, field, etc.
@@ -15,5 +15,17 @@ Better sound pack for EmpireMUD. Will eventually include the following:
 	* Crafting sounds
 	* Building sounds
 	* Sounds for stealth
+	* Sounds for survival
 	* Sounds for vampire, if possible
 
+## Directory layout ##
+
+* sounds: the root folder for all the sound cathegories
+	* abilities: role-specific abilities sounds
+	* ambiences: where all the ambiences for terrain tiles are stored, classed by type. Also includes adventure sounds
+	* building: sounds used for building
+	* chores: all chores-related sounds, mining, chopping, etc.
+	* combat: all the combat-related things including prompts
+	* misc: sounds that can't be classed elsewhere, storing items, etc.
+	* npcs: sounds for npc, used during combat and also on special triggers they may have where possible
+	* skills: sounds for the different skill branches, but that are not role-specific
