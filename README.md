@@ -29,3 +29,5 @@ Better sound pack for EmpireMUD. Will eventually include the following:
 	* misc: sounds that can't be classed elsewhere, storing items, etc.
 	* npcs: sounds for npc, used during combat and also on special triggers they may have where possible
 	* skills: sounds for the different skill branches, but that are not role-specific
+	* weather_elements: weather sounds that will be mixed up on top of the 
+	currently playing ambience
